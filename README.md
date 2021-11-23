@@ -7,3 +7,12 @@
 - Installing necessary packages: `pip install -r requirements.txt`.
 - Installing NVIDIA-Apex (Under CUDA-10.0 and Cudnn-7.4).
 - Installing [MobulaOP](https://github.com/wkcn/mobulaop)
+```
+# Clone the project
+git clone https://github.com/wkcn/MobulaOP
+
+# Enter the directory
+cd MobulaOP
+
+# Install MobulaOP
+pip install -v -e .
