@@ -22,9 +22,7 @@
   # Install MobulaOP
   pip install -v -e .```
 ### 2. Downloading Training and Testing Datasets
-> The discriminative mask will be released soon.
-
-> Or run `./OurSampler/DiscriminativeMask.py` to generate your discriminative mask.
+> The discriminative mask will be released soon. Or run `./OurSampler/DiscriminativeMask.py` to generate your discriminative mask.
 
 - Downloading training dataset (COD10K-train) and move it into `./OurModule/datasets/train/`.
 
