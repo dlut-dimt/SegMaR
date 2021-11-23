@@ -43,4 +43,8 @@
 
 - For restoration operation, just run `./OurSampler/Sampler_Restort.py`.
 
-- For the directory of original prediction or restoration prediction, please see our codes details。
+- For the directory of original prediction or restoration prediction, please see our codes details.
+
+### 6. Evaluation
+
+- One-key evaluation is written in [MATLAB](https://github.com/DengPingFan/CODToolbox) code, please follow this the instructions in` main.m` and just run it to generate the evaluation results.
