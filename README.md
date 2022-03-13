@@ -3,6 +3,7 @@
 ![image](https://github.com/YAOSL98/Segment-Magnify-and-Reiterate-Detecting-Camouflaged-Objects-the-Hard-Way/blob/main/Images/overview.jpg)
 ## Usage
 > The training and testing experiments are conducted using PyTorch with a single Tesla V100 GPU of 36 GB Memory.
+> Please click `master branch` for our code.
 
 ### 1. Prerequisites
 > Note that SegMaR is only tested on Ubuntu OS with the following environments. 
