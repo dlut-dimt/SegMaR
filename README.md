@@ -1,4 +1,4 @@
-# Segment, Magnify and Reiterate Detecting Camouflaged Objects the Hard Way
+# Segment, Magnify and Reiterate Detecting Camouflaged Objects the Hard Way (CVPR2022)
 
 ![image](https://github.com/YAOSL98/Segment-Magnify-and-Reiterate-Detecting-Camouflaged-Objects-the-Hard-Way/blob/main/Images/overview.jpg)
 ## Usage
