@@ -2,7 +2,7 @@
 
 ![image](https://github.com/YAOSL98/Segment-Magnify-and-Reiterate-Detecting-Camouflaged-Objects-the-Hard-Way/blob/main/Images/overview.jpg)
 ## Usage
-***There are two branches, please click `master branch` for our codes.***
+
 > The training and testing experiments are conducted using PyTorch with a single Tesla V100 GPU of 36 GB Memory.
 
 ### 1. Prerequisites
