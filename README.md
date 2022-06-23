@@ -37,6 +37,8 @@
 
 - For iterative training: `generator.load_state_dict(torch.load('./OurModule/models/xxx.pth'))`.
 
+- For the first stage [pretrained model](https://pan.baidu.com/s/1JqwWxxCJAA6HgTeb6n1MeQ), code `y4v3`.
+
 ### 4. Testing Configuration
 - After you download all the pre-trained model and testing datasets, just run `./OurModule/test.py` to generate the prediction map. Your save directory is `./OurModule/results.py`.
 
