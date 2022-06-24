@@ -38,7 +38,7 @@ Segment, Magnify and Reiterate: Detecting Camouflaged Objects the Hard Way. Jia 
 - Downloading testing dataset (COD10K-test + CAMO-test + CHAMELEON) and move it into `./OurModule/datasets/test/`.
 
 ### 3. Training Configuration
-- After you download all the training datasets, just run `./OurModule/train.py` to generate the model (you can replace [discriminative mask](https://drive.google.com/file/d/1q3kTtBUu2WJB67V5S0wiqSr0--H1nwBC/view?usp=sharing) with binary groundtruth if If you use a dataset without this mask).
+- After you download all the training datasets, just run `./OurModule/train.py` to generate the model (you can replace [discriminative mask](https://drive.google.com/file/d/1q3kTtBUu2WJB67V5S0wiqSr0--H1nwBC/view?usp=sharing) with binary groundtruth if you use a dataset without this mask).
 
 - For iterative training: `generator.load_state_dict(torch.load('./OurModule/models/xxx.pth'))`.
 
