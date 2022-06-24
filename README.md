@@ -57,3 +57,15 @@
 ### 6. Evaluation
 
 - One-key evaluation is written in [MATLAB](https://github.com/DengPingFan/CODToolbox) code, please follow this the instructions in` main.m` and just run it to generate the evaluation results.
+
+## Citation
+```
+@InProceedings{Jia_2022_CVPR,
+    author    = {Jia, Qi and Yao, Shuilian and Liu, Yu and Fan, Xin and Liu, Risheng and Luo, Zhongxuan},
+    title     = {Segment, Magnify and Reiterate: Detecting Camouflaged Objects the Hard Way},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2022},
+    pages     = {4713-4722}
+}
+```
