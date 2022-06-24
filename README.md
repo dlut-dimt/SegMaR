@@ -3,7 +3,8 @@
 ![image](https://github.com/YAOSL98/Segment-Magnify-and-Reiterate-Detecting-Camouflaged-Objects-the-Hard-Way/blob/main/Images/overview.jpg)
 
 
-Segment, Magnify and Reiterate: Detecting Camouflaged Objects the Hard Way,Jia, Qi and Yao, Shuilian and Liu, Yu and Fan, Xin and Liu, Risheng and Luo, Zhongxuan.CVPR2022
+Segment, Magnify and Reiterate: Detecting Camouflaged Objects the Hard Way.Jia Qi and Yao Shuilian and Liu Yu and Fan Xin and Liu Risheng and Luo Zhongxuan.CVPR2022.
+
 [paper download](https://openaccess.thecvf.com/content/CVPR2022/papers/Jia_Segment_Magnify_and_Reiterate_Detecting_Camouflaged_Objects_the_Hard_Way_CVPR_2022_paper.pdf)
 
 ## Usage
