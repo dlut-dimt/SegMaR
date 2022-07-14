@@ -47,7 +47,7 @@ Segment, Magnify and Reiterate: Detecting Camouflaged Objects the Hard Way. Jia 
 ### 4. Testing Configuration
 - After you download all the pre-trained model and testing datasets, just run `./OurModule/test.py` to generate the prediction map. Your save directory is `./OurModule/results.py`.
 
-- [Test results](https://pan.baidu.com/s/1I1OqBvDahJpzPdG72h6QdA),code `pxu7`
+- [Test results](https://pan.baidu.com/s/1I1OqBvDahJpzPdG72h6QdA), code `pxu7`
 
 ### 5. Sampler Operation
 - Make sure that you have installed MobulaOP in your virtual environment.
