@@ -50,7 +50,7 @@ Segment, Magnify and Reiterate: Detecting Camouflaged Objects the Hard Way. Jia 
 
 - [Test results](https://pan.baidu.com/s/1I1OqBvDahJpzPdG72h6QdA), code `pxu7`
 
-- [New NC4K results](https://pan.baidu.com/s/1M90ZMO8eY1LAh_cPkeHEXg), code `8kd1`(for the 4th stage)
+- [New NC4K results](https://drive.google.com/file/d/11VjxUWqQ7UhcI_t5jeY2R5NOJIW885BN/view?usp=sharing)
 ### 5. Sampler Operation
 - Make sure that you have installed MobulaOP in your virtual environment.
 
