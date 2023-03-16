@@ -36,7 +36,7 @@ Segment, Magnify and Reiterate: Detecting Camouflaged Objects the Hard Way. Jia 
 
 - Downloading testing dataset (COD10K-test + CAMO-test + CHAMELEON) and move it into `./OurModule/datasets/test/`.
 
-- You can use [discriminative mask](https://drive.google.com/file/d/1q3kTtBUu2WJB67V5S0wiqSr0--H1nwBC/view?usp=sharing) or [discriminative mask](https://pan.baidu.com/s/1uBStnoKPSgqi6btvpJmfLQ), code `e5ym`, or run `./OurSampler/DiscriminativeMask.py` to generate your discriminative mask. If you use a dataset without this mask (like COCO or Pascal VOC), you can replace discriminative mask with binary groundtruth.
+- You can use [discriminative mask google drive link](https://drive.google.com/file/d/1q3kTtBUu2WJB67V5S0wiqSr0--H1nwBC/view?usp=sharing) or [discriminative mask baidu drive link](https://pan.baidu.com/s/1uBStnoKPSgqi6btvpJmfLQ), code `e5ym`, or run `./OurSampler/DiscriminativeMask.py` to generate your discriminative mask. If you use a dataset without this mask (like COCO or Pascal VOC), you can replace discriminative mask with binary groundtruth.
 
 ### 3. Training Configuration
 - After you download all the training datasets, just run `./OurModule/train.py` to generate the model.
@@ -50,7 +50,7 @@ Segment, Magnify and Reiterate: Detecting Camouflaged Objects the Hard Way. Jia 
 
 - [Test results](https://pan.baidu.com/s/1I1OqBvDahJpzPdG72h6QdA), code `pxu7`
 
-- [New NC4K results](https://drive.google.com/file/d/11VjxUWqQ7UhcI_t5jeY2R5NOJIW885BN/view?usp=sharing)
+- [New NC4K results](https://drive.google.com/file/d/11VjxUWqQ7UhcI_t5jeY2R5NOJIW885BN/view?usp=sharing) or [baidu drive link](https://pan.baidu.com/s/1F0gsEBxgF18HzQtgloxC9Q), code `naif`
 ### 5. Sampler Operation
 - Make sure that you have installed MobulaOP in your virtual environment.
 
